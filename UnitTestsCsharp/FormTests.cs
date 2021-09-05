@@ -10,6 +10,5 @@ namespace UnitTestsCsharp
             // some data initialization code here....
             RunCypressTest("form/submit_spec.ts");
         }
-        
     }
 }

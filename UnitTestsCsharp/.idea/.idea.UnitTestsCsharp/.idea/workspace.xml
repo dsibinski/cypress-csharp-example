@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52f41358-0bfc-494f-a0c3-399c512de179" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CypressTestsBase.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTest1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FormTests.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UnitTestsCsharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/UnitTestsCsharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.UnitTestsCsharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.UnitTestsCsharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FormTests.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FormTests.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +35,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1630814688962</updated>
-      <workItem from="1630814691691" duration="1627000" />
+      <workItem from="1630814691691" duration="3206000" />
     </task>
     <servers />
   </component>
